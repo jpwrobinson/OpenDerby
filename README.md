@@ -22,7 +22,7 @@ In addition to learning new skills and gaining a publication, graduate students 
 
 Anyone can run their own Open Derby! We do suggest that the lead organizer is a senior PhD student, post-doc, or PI who already has some experience with using Github. All participants should also have a basic understanding of coding.
 
-More details on running your own event **here**. 
+More details on running your own event [here](/3_how_to_run_derby.md)
 
 #### How can I contribute to Open Derby?
 
