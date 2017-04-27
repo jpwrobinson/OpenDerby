@@ -2,7 +2,7 @@
 
 #### What is Open Derby?
 
-Open Derby solves an unanswered science problem in **open** collaboration. Participants will combine open data, Github, and R-markdown in an **open notebook** to ensure their findings are reproducible and openly available.  
+Open Derby solves an unanswered science problem in **open** collaboration. Participants will combine open data, Github, and Jupyter/R-markdown in an **open notebook** to ensure their findings are reproducible and openly available.  
 
 We've written a short manual explaining what OpenDerby is, and how you can adapt it for your own open needs.
 
@@ -20,7 +20,7 @@ In addition to learning new skills and gaining a publication, graduate students 
 
 #### How can I use Open Derby?
 
-Anyone can run their own Open Derby! We do suggest that the lead organizer is a senior PhD student, post-doc, or PI who already has some experience with using Github. All participants should also have a basic understanding of coding.
+Anyone can run their own Open Derby! We do suggest that the lead organizer is a senior PhD student, post-doc, or PI who already has some experience with using Github. All participants should also have a basic understanding of coding in R or Python.
 
 More details on running your own event [here](/3_how_to_run_derby.md)
 
@@ -33,4 +33,4 @@ Although each derby will be unique, we encourage participants to share their ope
 * did you find any interesting datasets?
 * what did you publish?!
 
-Please contribute to the Open Derby material by **forking** this repository. If you'd like to become more involved with the project, email James Robinson for direct write access. 
+To learn more about contributing, see [here](/CONTRIBUTING.md)
