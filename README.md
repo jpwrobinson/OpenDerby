@@ -6,6 +6,12 @@ Open Derby solves an unanswered science problem in **open** collaboration. Parti
 
 We've written a short manual explaining what OpenDerby is, and how you can adapt it for your own open needs.
 
+1. [Why do open science?](/1_why_open.md)
+* [What is an Open Derby?](/2_what_is_derby.md)
+* [How to run an Open Derby](/3_how_to_run_derby.md)
+* [Research questions for Derbies](/4_research_qs_data.md)
+* [Open resources](/5_resources.md)
+
 #### Who is Open Derby for?
 
 The derby concept is targeted at any research group, from coding clubs to academic labs, who want to:
@@ -22,7 +28,7 @@ In addition to learning new skills and gaining a publication, graduate students 
 
 Anyone can run their own Open Derby! We do suggest that the lead organizer is a senior PhD student, post-doc, or PI who already has some experience with using Github. All participants should also have a basic understanding of coding in R or Python.
 
-More details on running your own event [here](/3_how_to_run_derby.md)
+[More details on running your own event](/3_how_to_run_derby.md)
 
 #### How can I contribute to Open Derby?
 
