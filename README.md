@@ -6,7 +6,7 @@ Open Derby solves an unanswered science problem in **open** collaboration. Parti
 
 We've written a short manual explaining what OpenDerby is, and how you can adapt it for your own open needs.
 
-1. [Why do open science?](/1_why_open.md)
+* [Why do open science?](/1_why_open.md)
 * [What is an Open Derby?](/2_what_is_derby.md)
 * [How to run an Open Derby](/3_how_to_run_derby.md)
 * [Research questions for Derbies](/4_research_qs_data.md)
@@ -39,4 +39,4 @@ Although each derby will be unique, we encourage participants to share their ope
 * did you find any interesting datasets?
 * what did you publish?!
 
-To learn more about contributing, see [here](/CONTRIBUTING.md)
+To learn more about contributing, see [our contributor code of conduct.](/CONTRIBUTING.md)
