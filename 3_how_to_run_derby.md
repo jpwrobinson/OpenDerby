@@ -12,6 +12,8 @@ Remember, this repository is your public holding place for all meeting notes, id
 
 Once you have decided on a question/idea (this may take several meetings - stick at it!) and identified an appropriate open dataset you're ready to start the research process!
 
+***
+
 #### Data wrangling, literature review, and statistics 
 
 Day-to-day derby tasks should be run however the Derby leader wishes. You might want to split up major tasks between individuals or pairs - data cleaning and exploring, literature review, testing statistical approaches. 
@@ -26,6 +28,8 @@ For storing data, analysis, (e.g. R/Python/bash scripts), figures, and writing i
 
 For the literature review: we've found that Google sheets are great ways of gathering notes. You could also use [Mendeley's online Groups feature](https://www.mendeley.com/) to keep papers organised.
 
+***
+
 #### Communicating throughout the Derby
 
 Derbies may be run by groups that share offices, or by people living on different continents. Either way, it's incredibly useful to keep a record of every conversation and every decision you make during a research project. There are lots of ways to do this, some of our favourites are:
@@ -34,6 +38,7 @@ Derbies may be run by groups that share offices, or by people living on differen
 * We also like using the [Issues](https://github.com/baumlab/open-science-project/issues) in GitHub to keep track of problems and decisions  
 * [Etherpad](http://etherpad.org/) is a great tool for structuring video calls and keeping track of discussion
 
+***
 
 #### Writing manuscript and submission
 
