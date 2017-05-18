@@ -1,5 +1,5 @@
 # OpenDerby
-![alt text](/open-derby-logo.png "")
+![alt text](/images/open-derby-logo.png "")
 
 #### What is Open Derby?
 
