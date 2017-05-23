@@ -1,6 +1,20 @@
 # OpenDerby
 ![alt text](/images/open-derby-logo.png "")
 
+## Join OpenDerby at #mozsprint 2017!
+
+I'm excited to let you know that OpenDerby is part of Mozilla’s Global Sprint https://mozilla.github.io/global-sprint/ on June 1st and 2nd, 2017. This is a fast-paced, fun two-day collaborative work event where we’ll come together online and in person to work and hack on open projects. 
+
+You can join in, no matter your skill set or level. We’re looking for R, Python and Git content and links, open data, and OpenDerby organizers. 
+
+There are lots of other projects and work to do at the Sprint https://mozilla.github.io/global-sprint/projects/, so anyone who’s passionate about the open web can help. All that’s missing is you!
+
+Here’s more on how to participate in the Sprint https://mozilla.github.io/global-sprint/participants/. You can participate online: the registration page is here: https://mozilla.github.io/global-sprint/register/. I hope you'll come Sprint with us, and help grow and support the open web. 
+
+See you at the Sprint!
+
+***
+
 #### What is Open Derby?
 
 Open Derby solves an unanswered science problem in **open** collaboration. Participants will combine open data, Github, and Jupyter/R-markdown in an **open notebook** to ensure their findings are reproducible and openly available.  
