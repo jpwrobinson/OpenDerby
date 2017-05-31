@@ -6,15 +6,40 @@ To help you get started, we've come up with a list of open datasets, papers to r
 
 ***
 
-#### Open datasets
+## Open datasets
 
-LINKS NEEDED
+**Federal data repositories**
+
+* [Fisheries and Oceans Canada Open Government Portal](http://open.canada.ca/data/en/dataset?organization=dfo-mpo)
+
+* [Ocean Networks Canada](http://www.oceannetworks.ca/data-tools/data-quality)  
+* [NOAA Data Center](https://www.nodc.noaa.gov/)  
+
+* [NOAA World Ocean Database](https://www.nodc.noaa.gov/OC5/WOD/pr_wod.html)  
+
+**Ecological data repositories**
+
+* [Data Retriever](http://www.data-retriever.org/)
+
+* [Ecological Data Wiki](https://ecologicaldata.org/find-data)
+
+* [NCEAS Ecological & Spatial Data Sources](https://www.nceas.ucsb.edu/scicomp/data)
+
+* [Ecological Society of America Data Registry](http://data.esa.org/esa/style/skins/esa/index.jsp)
+
+* [Knowledge Network for Biocomplexity (KNB)](https://knb.ecoinformatics.org/)
 
 ***
 
-#### Open questions
+## Open questions
 
-LINKS NEEDED
+* [100 fundamental ecological questions](http://onlinelibrary.wiley.com/doi/10.1111/1365-2745.12025/abstract)  
+Sutherland et al. 2013, *Journal of Ecology*
+
+* [Seventy-One Important Questions for the Conservation of Marine Biodiversity](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4264944/)  
+Parsons et al. 2014, *Conservation Biology*
+
+* [Benioff Ocean Initative](https://boi.ucsb.edu/the-ideas)
 
 ***
 
@@ -32,8 +57,8 @@ LINKS NEEDED
 
 **Datasets**
 
-1. [Lake temperature time-series](https://www.nature.com/articles/sdata20158)
-2. [IUCN Red List](http://www.iucnredlist.org/search)
+* [Lake temperature time-series](https://www.nature.com/articles/sdata20158)
+* [IUCN Red List](http://www.iucnredlist.org/search)
 
 ***
 
