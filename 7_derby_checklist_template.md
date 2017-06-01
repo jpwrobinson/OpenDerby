@@ -27,7 +27,7 @@ Timelines are adjustable! Adapt for your needs.
 
 ***
 
-#### Week 1. First meeting, hypothesis, and Github
+### Week 1. First meeting, hypothesis, and Github
 
 **Admin**:  
 - [ ] **Open notebook target:** Github repo set up  :notebook_with_decorative_cover:
@@ -42,7 +42,7 @@ Timelines are adjustable! Adapt for your needs.
 
 ***
 
-#### Weeks 2 - 6. Data wrangling, literature review, and statistics 
+### Weeks 2 - 6. Data wrangling, literature review, and statistics 
 
 - [ ] Assigned tasks to Derby participants as Github Issues
 
@@ -62,7 +62,7 @@ Timelines are adjustable! Adapt for your needs.
 
 ***
 
-#### Weeks 7-10. Writing manuscript and selecting a journal
+### Weeks 7-10. Writing manuscript and selecting a journal
 
 **Manuscript writing:**
 
@@ -79,3 +79,5 @@ Timelines are adjustable! Adapt for your needs.
 - [ ] Convert R-markdown/Jupyter manuscript to Word/PDF
 - [ ] Submit manuscript  
 - [ ] Order pizza and beer :beers: :pizza: :tada:
+
+***
