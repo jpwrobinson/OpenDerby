@@ -13,6 +13,8 @@ Here’s more on how to participate in the Sprint https://mozilla.github.io/glob
 
 See you at the Sprint!
 
+**WELCOME SPRINTERS! To contribute, check out our [Issues tracker](https://github.com/jpwrobinson/OpenDerby/issues)**
+
 ***
 
 #### What is Open Derby?
