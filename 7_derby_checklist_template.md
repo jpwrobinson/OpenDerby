@@ -75,8 +75,8 @@ Timelines are adjustable! Adapt for your needs.
 **Publication:**
 
 - [ ] **Open access target:** Select open access target journal  (or preprint server + other target journal)
-- [ ] **Open access target:** Submit preprint  
 - [ ] Convert R-markdown/Jupyter manuscript to Word/PDF
+- [ ] **Open access target:** Submit preprint  
 - [ ] Submit manuscript  
 - [ ] Order pizza and beer :beers: :pizza: :tada:
 
