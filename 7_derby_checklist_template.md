@@ -30,10 +30,10 @@ Timelines are adjustable! Adapt for your needs.
 #### Week 1. First meeting, hypothesis, and Github
 
 **Admin**:  
-- [ ] Github repo set up  
+- [ ] **Open notebook target:** Github repo set up  :notebook_with_decorative_cover:
 - [ ] All team members registered on Github  
 - [ ] All team members collaborators or forked <%= repo %>   
-- [ ] Etherpad and Slack channel for communication
+- [ ] Etherpad and Slack channel for communication :memo: 
 
 **Meeting #1**:  
 - [ ] Identified novel research question   
@@ -48,12 +48,12 @@ Timelines are adjustable! Adapt for your needs.
 
 **Data wrangling:**
 
-- [ ] Dataset cleaned and analysis ready
+- [ ] Dataset cleaned and ready for analysis :coffee: :coffee: :coffee:
 - [ ] Summary of exploratory figures in dynamic document (e.g. R-markdown, Jupyter)
 
 **Literature review:**
 
-- [ ] **Reproducible target:** Dynamic document for literature review (e.g. Google Docs/Sheets)
+- [ ] Dynamic document for literature review (e.g. Google Docs/Sheets)
 - [ ] Literature search, papers in repo
 
 **Statistics:**
@@ -66,18 +66,16 @@ Timelines are adjustable! Adapt for your needs.
 
 **Manuscript writing:**
 
-- [ ] Created dynamic document for manuscript
+- [ ] **Open notebook & reproducible target:** Create dynamic document for manuscript
 - [ ] Bibtex file for formatting citations
 - [ ] Publication-quality figures
-- [ ] **Open access target:** Cleaned data + scripts for supplementary material
+- [ ] **Open access target:** Clean data + scripts for supplementary material
 - [ ] **Reproducible target:** rerun all data wrangling, analysis, figures
 
 **Publication:**
 
-- [ ] **Open access target:** Selected open access target journal  
-	*OR*  
-- [ ] Selected preprint server and other target journal
-
-- [ ] **Open access target:** Submitted preprint  
-- [ ] Submitted manuscript  
-- [ ] Ordered pizza and beer  
+- [ ] **Open access target:** Select open access target journal  (or preprint server + other target journal)
+- [ ] **Open access target:** Submit preprint  
+- [ ] Convert R-markdown/Jupyter manuscript to Word/PDF
+- [ ] Submit manuscript  
+- [ ] Order pizza and beer :beers: :pizza: :tada:
