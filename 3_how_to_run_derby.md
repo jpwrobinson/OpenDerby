@@ -1,5 +1,13 @@
 ### How to run a research derby?
 
+Here are our recommendations for running your own Open Derby. 
+
+Remember, the Derby should be adapted for you and your collaborators' research needs - do you code in R or Python? Do you want to share write access on Github or submit pull requests? Do you want to have a 'pressure-cooker' Derby (e.g. 24 hours intensive) or work over a full semester for course credit?
+
+We've written a **[checklist](/7_derby_checklist_template.md)** for new Derby groups. Try and meet our suggested objectives to keep your science open and reproducible at every stage. 
+
+***
+
 #### 1. First meeting, hypothesis, and Github
 
 First, find a group of excited researchers (i.e. graduate students, post-docs, PIs) and meet to discuss research question possibilities and access to open data sets. 
