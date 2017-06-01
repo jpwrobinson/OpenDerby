@@ -5,15 +5,7 @@
 
 I'm excited to let you know that OpenDerby is part of Mozilla’s Global Sprint https://mozilla.github.io/global-sprint/ on June 1st and 2nd, 2017. This is a fast-paced, fun two-day collaborative work event where we’ll come together online and in person to work and hack on open projects. 
 
-You can join in, no matter your skill set or level. We’re looking for R, Python and Git content and links, open data, and OpenDerby organizers. 
-
-There are lots of other projects and work to do at the Sprint https://mozilla.github.io/global-sprint/projects/, so anyone who’s passionate about the open web can help. All that’s missing is you!
-
-Here’s more on how to participate in the Sprint https://mozilla.github.io/global-sprint/participants/. You can participate online: the registration page is here: https://mozilla.github.io/global-sprint/register/. I hope you'll come Sprint with us, and help grow and support the open web. 
-
-See you at the Sprint!
-
-**WELCOME SPRINTERS! To contribute, check out our [Issues tracker](https://github.com/jpwrobinson/OpenDerby/issues)**
+**WELCOME SPRINTERS! To contribute, check out our [Issues tracker.](https://github.com/jpwrobinson/OpenDerby/issues)** We’re looking for R, Python and Git content and links, open data, and OpenDerby organizers. 
 
 ***
 
@@ -49,7 +41,8 @@ In addition to learning new skills and gaining a publication, graduate students 
 
 Anyone can run their own Open Derby! We do suggest that the lead organizer is a senior PhD student, post-doc, or PI who already has some experience with using Github. All participants should also have a basic understanding of coding in R or Python.
 
-[More details on running your own event](/3_how_to_run_derby.md)
+[More details on running your own event](/3_how_to_run_derby.md)  
+[Copy our Open Derby checklist for your own event](/7_derby_checklist_template.md)
 
 ***
 
@@ -62,6 +55,6 @@ Although each derby will be unique, we encourage participants to share their ope
 * did you find any interesting datasets?
 * what did you publish?!
 
-To learn more about contributing, see [our contributor code of conduct.](/CONTRIBUTING.md)
+To learn more about contributing, check out our [Issues tracker](https://github.com/jpwrobinson/OpenDerby/issues) and see [our contributor code of conduct.](/CONTRIBUTING.md).
 
 ***
