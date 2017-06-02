@@ -28,3 +28,9 @@ The [Directory of Open Access Journals](https://doaj.org/) is a directory of all
 With the rise of the open access movement, there has also been a rise in 'predatory' journals. The information at [Thick Check Submit](http://thinkchecksubmit.org/) provides some excellent guidelines to help decide which journal you want to send to.
 
 #### Data management
+
+#### Communication
+ We can user [Gitter](https://gitter.im) for communication and team collaboration.
+ It's simple and easy to use and we don't need to do so much stuff for login because we can login by github or twitter account and can add peoples by searching from facebook,email,githubid and twitter handle.
+
+
